@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="#" height="200"></img>
+<img align="center" src="#" height="250"></img>
 <!-- Final logo here -->
 </div>
 <div align="center">
@@ -27,11 +27,11 @@ Bug bounty programs are set up by organisations to encourage individuals to repo
 Anyone with computer skills and a high degree of curiosity can become a successful finder of vulnerabilities [...] the main requirement is that you need to keep learning continuously.
 </blockquote>
 
-These BBF University classes introduce you to bug bounty hunting, and aim to provide a stable footing as you write your first bug reports.
+These BBF University classes introduce you to bug bounty hunting and aim to provide a stable footing as you file your first bug reports.
 
 By the end of the course, we hope you will have familiarised yourself with...
 
-* a wide range of vulnerability classes
+* a wide range of common vulnerability classes
 * which types of bug to report (and which <i>not</i> to report)
 * how to compose a descriptive, well-received vulnerability report
 * how to communicate respectfully and effectively with security teams.
@@ -49,15 +49,16 @@ By the end of the course, we hope you will have familiarised yourself with...
 ## The community
 <a href="https://bugbountyforum.com">Bug Bounty Forum</a> is a Slack group and global community of well-known researchers, security analysts, and team members of bug bounty platforms (such as HackerOne, Bugcrowd, Zerocopter, and Synack).
 
-Whilst the BBF University project has just started, we are a community-driven group who truly value appreciate your [contributions](https://github.com/bugbountyforum/BBF-university/blob/master/CONTRIBUTING.md). The current core contributors to this project are:
+Whilst the BBF University project has just started, we are a community-driven group who truly value appreciate your [contributions](https://github.com/bugbountyforum/BBF-university/blob/master/CONTRIBUTING.md). At present, the core contributors to this project are:
 
-* Olivier beg
-* EdOverflow
-* Yasin Soliman
+<!-- Insert preferred links -->
+* <a href="">Olivier Beg</a>
+* <a href="">EdOverflow</a>
+* <a href="https://twitter.com/SecurityYasin">Yasin Soliman</a>
 
 ## Further reading
 * 💻 <a href="https://github.com/edoverflow/bugbounty-cheatsheet">Bug Bounty Cheatsheet</a> by @EdOverflow
 * 💻 <a href="https://forum.bugcrowd.com/t/researcher-resources-getting-started/115">Getting Started Resources</a> from Bugcrowd
-* 📚 <i><a href="https://leanpub.com/web-hacking-101">Web Hacking 101</a> by Pete Yaworski
-* 📚 <i><a href="https://leanpub.com/ltr101-breaking-into-infosec">Breaking into Information Security: Learning the Ropes 101</a> by Andy Gill (@ZephrFish)
- * 📚 <i><a href="http://mdsec.net/wahh/">The Web Application Hacker's Handbook</a> by Stuttard and Pinto 
+* 📚 <a href="https://leanpub.com/web-hacking-101">Web Hacking 101</a> by Pete Yaworski
+* 📚 <a href="https://leanpub.com/ltr101-breaking-into-infosec">Breaking into Information Security: Learning the Ropes 101</a> by Andy Gill (@ZephrFish)
+ * 📚 <a href="http://mdsec.net/wahh/">The Web Application Hacker's Handbook</a> by Stuttard and Pinto 
