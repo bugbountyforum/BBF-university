@@ -56,3 +56,8 @@ Whilst the BBF University project has just started, we are a community-driven gr
 * Yasin Soliman
 
 ## Further reading
+* 💻 <a href="https://github.com/edoverflow/bugbounty-cheatsheet">Bug Bounty Cheatsheet</a> by @EdOverflow
+* 💻 <a href="https://forum.bugcrowd.com/t/researcher-resources-getting-started/115">Getting Started Resources</a> from Bugcrowd
+* 📚 <i><a href="https://leanpub.com/web-hacking-101">Web Hacking 101</a> by Pete Yaworski
+* 📚 <i><a href="https://leanpub.com/ltr101-breaking-into-infosec">Breaking into Information Security: Learning the Ropes 101</a> by Andy Gill (@ZephrFish)
+ * 📚 <i><a href="http://mdsec.net/wahh/">The Web Application Hacker's Handbook</a> by Stuttard and Pinto 
