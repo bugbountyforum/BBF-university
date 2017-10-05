@@ -15,13 +15,13 @@ Welcome to <b>BBF University</b>. Course content is developed and maintained by 
 <br/><br/>
 </div>
 <center>
-<i>“A reward offered to a person who identifies an error or vulnerability in a computer program or system.”</i><br/>
+<blockquote>“A reward offered to a person who identifies an error or vulnerability in a computer program or system.”</blockquote><br/>
 &mdash; "bug bounty, n." 2017. https://en.oxforddictionaries.com/definition/bug_bounty (5 Oct 2017)
 </center>
   
 ## Curriculum
 ### Classes for Researchers
-Bug bounty programs are set up by organisations to encourage individuals to report issues discovered. When it comes to becoming a <i>bug bounty hunter</i>, we think the team at HackerOne put it well:
+Bug bounty programs are set up by organisations to encourage individuals to report potential security issues. When it comes to becoming a <i>bug bounty hunter</i>, we think the team at HackerOne put it well:
 
 <blockquote>
 Anyone with computer skills and a high degree of curiosity can become a successful finder of vulnerabilities [...] the main requirement is that you need to keep learning continuously.
