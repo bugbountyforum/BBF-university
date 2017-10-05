@@ -47,5 +47,12 @@ By the end of the course, we hope you will have familiarised yourself with...
 * a checklist of vulnerabilities you can resolve before launching a program.
 
 ## The community
+<a href="https://bugbountyforum.com">Bug Bounty Forum</a> is a Slack group and global community of well-known researchers, security analysts, and team members of bug bounty platforms (such as HackerOne, Bugcrowd, Zerocopter, and Synack).
+
+Whilst the BBF University project has just started, we are a community-driven group who truly value appreciate your [contributions](https://github.com/bugbountyforum/BBF-university/blob/master/CONTRIBUTING.md). The current core contributors to this project are:
+
+* Olivier beg
+* EdOverflow
+* Yasin Soliman
 
 ## Further reading
